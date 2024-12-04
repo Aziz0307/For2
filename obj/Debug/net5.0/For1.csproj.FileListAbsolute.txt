@@ -1,0 +1,16 @@
+C:\Users\aziz0\RiderProjects\For1\For1\bin\Debug\net5.0\For1.exe
+C:\Users\aziz0\RiderProjects\For1\For1\bin\Debug\net5.0\For1.deps.json
+C:\Users\aziz0\RiderProjects\For1\For1\bin\Debug\net5.0\For1.runtimeconfig.json
+C:\Users\aziz0\RiderProjects\For1\For1\bin\Debug\net5.0\For1.runtimeconfig.dev.json
+C:\Users\aziz0\RiderProjects\For1\For1\bin\Debug\net5.0\For1.dll
+C:\Users\aziz0\RiderProjects\For1\For1\bin\Debug\net5.0\ref\For1.dll
+C:\Users\aziz0\RiderProjects\For1\For1\bin\Debug\net5.0\For1.pdb
+C:\Users\aziz0\RiderProjects\For1\For1\obj\Debug\net5.0\For1.csproj.AssemblyReference.cache
+C:\Users\aziz0\RiderProjects\For1\For1\obj\Debug\net5.0\For1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziz0\RiderProjects\For1\For1\obj\Debug\net5.0\For1.AssemblyInfoInputs.cache
+C:\Users\aziz0\RiderProjects\For1\For1\obj\Debug\net5.0\For1.AssemblyInfo.cs
+C:\Users\aziz0\RiderProjects\For1\For1\obj\Debug\net5.0\For1.csproj.CoreCompileInputs.cache
+C:\Users\aziz0\RiderProjects\For1\For1\obj\Debug\net5.0\For1.dll
+C:\Users\aziz0\RiderProjects\For1\For1\obj\Debug\net5.0\ref\For1.dll
+C:\Users\aziz0\RiderProjects\For1\For1\obj\Debug\net5.0\For1.pdb
+C:\Users\aziz0\RiderProjects\For1\For1\obj\Debug\net5.0\For1.genruntimeconfig.cache
